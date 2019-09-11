@@ -11,7 +11,7 @@
         vm.question = '';
         vm.createQuestion = createQuestion
 
-        vm.title = 'Question Page';
+        vm.title = 'QUESTINÁRIO:';
 
         vm.questions = []
 
